@@ -10,6 +10,4 @@ TBD
 > Take <path_to_svg> and extract only connected dots for Cassiopeia constellatio
 
 ## Used
-
-### Cassiopeia
-- https://upload.wikimedia.org/wikipedia/commons/e/e7/Cassiopeia_IAU.svg
+- (5) Cassiopeia
