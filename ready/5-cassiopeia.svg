@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="169.0976 170.4844 148.9627 106.9374" width="148.9627" height="106.9374">
-  <rect x="169.0976" y="170.4844" width="148.9627" height="106.9374" fill="#0b1d3a"/>
-  <line x1="298.0603" y1="229.9211" x2="264.9818" y2="257.4218" stroke="#7ad75d" stroke-width="2" stroke-linecap="round"/>
-  <line x1="264.9818" y1="257.4218" x2="244.9528" y2="221.7695" stroke="#7ad75d" stroke-width="2" stroke-linecap="round"/>
-  <line x1="244.9528" y1="221.7695" x2="213.4724" y2="224.6055" stroke="#7ad75d" stroke-width="2" stroke-linecap="round"/>
-  <line x1="213.4724" y1="224.6055" x2="189.0976" y2="190.4844" stroke="#7ad75d" stroke-width="2" stroke-linecap="round"/>
-  <circle cx="298.0603" cy="229.9211" r="4" fill="white" stroke="#222" stroke-width="0.6"/>
-  <circle cx="264.9818" cy="257.4218" r="4" fill="white" stroke="#222" stroke-width="0.6"/>
-  <circle cx="244.9528" cy="221.7695" r="4" fill="white" stroke="#222" stroke-width="0.6"/>
-  <circle cx="213.4724" cy="224.6055" r="4" fill="white" stroke="#222" stroke-width="0.6"/>
-  <circle cx="189.0976" cy="190.4844" r="4" fill="white" stroke="#222" stroke-width="0.6"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="169.09765599999997 170.484375 148.96093775000003 106.9375" width="148.96093775000003" height="106.9375">
+  <rect x="169.09765599999997" y="170.484375" width="148.96093775000003" height="106.9375" fill="#0b1d3a"/>
+  <line x1="298.0586" y1="229.9219" x2="264.9805" y2="257.4219" stroke="#7ad75d" stroke-width="2" stroke-linecap="round"/>
+  <line x1="264.9805" y1="257.4219" x2="244.9531" y2="221.7695" stroke="#7ad75d" stroke-width="2" stroke-linecap="round"/>
+  <line x1="244.9531" y1="221.7695" x2="213.4727" y2="224.6055" stroke="#7ad75d" stroke-width="2" stroke-linecap="round"/>
+  <line x1="213.4727" y1="224.6055" x2="189.0977" y2="190.4844" stroke="#7ad75d" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="298.0586" cy="229.9219" r="4" fill="white" stroke="#222" stroke-width="0.6"/>
+  <circle cx="264.9805" cy="257.4219" r="4" fill="white" stroke="#222" stroke-width="0.6"/>
+  <circle cx="244.9531" cy="221.7695" r="4" fill="white" stroke="#222" stroke-width="0.6"/>
+  <circle cx="213.4727" cy="224.6055" r="4" fill="white" stroke="#222" stroke-width="0.6"/>
+  <circle cx="189.0977" cy="190.4844" r="4" fill="white" stroke="#222" stroke-width="0.6"/>
 </svg>
