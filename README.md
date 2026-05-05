@@ -5,6 +5,9 @@ TBD
 ## Wiki list
 - https://en.wikipedia.org/wiki/Constellation
 
+## Copilot planning
+- https://copilot.microsoft.com/shares/pages/Ef16eHPKJouRYgkWKKVgL
+
 ## Prompt
 
 > Take <path_to_svg> and extract only connected dots for Cassiopeia constellatio
